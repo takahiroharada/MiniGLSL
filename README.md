@@ -25,11 +25,14 @@ on Windows,
 ## Examples
 
 - Ray tracing (direct illumination under a point light)
+
 ![raytrace.glsl](./etc/raytrace.png)
 
 - Ambient occlusion
+
 ![ao.glsl](./etc/ao.png)
 
 - Voronoi cell
+
 ![voronoi.glsl](./etc/voronoi.png)
 
